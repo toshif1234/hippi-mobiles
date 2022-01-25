@@ -6,7 +6,7 @@ html{
     
 }
 .fullscreen-landing{
-    background: white url("../img/firstpic.jpg") no-repeat scroll center;
+    background: white url("firstpic.jpg") no-repeat scroll center;
     height: 100vh;
     background-size: cover;
 }
@@ -19,7 +19,7 @@ html{
     width: 500px;
 }
 .subscribe-section{
-    background: white url("../img/firstpic.jpg") no-repeat scroll center;
+    background: white url("firstpic.jpg") no-repeat scroll center;
     background-size: cover;
 }
 .subscribe-overlay{
